@@ -31,11 +31,11 @@ class Timescale extends React.PureComponent<Props, State> {
 
   static defaultProps = {
     borderColor: '#e1e1e1',
-    height: '150',
-    width: '40',
-    statusBlockHeight: '30',
+    height: 120,
+    width: 40,
+    statusBlockHeight: 20,
     scaleColor: '#e1e1e1',
-    scaleHeight: 50,
+    scaleHeight: 30,
     statusColor: '#fff',
     hoverColor: '#ebeff3',
     backColor: '#fff',
